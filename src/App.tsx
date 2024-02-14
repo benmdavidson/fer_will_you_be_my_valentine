@@ -40,7 +40,6 @@ export default function Page() {
           <>
             <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
             <div className="text-container">Thanks for FINALLY saying yes. Now click for a smol message, mi amor :)</div>
-            <div className="text-container"><a href="https://benmdavidson.github.io/a_message_to_my_valentine/">A message to my beloved Valentine, Fer!</a></div>
           </>
         ) : (
           <>
